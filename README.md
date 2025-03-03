@@ -8,7 +8,7 @@ I'm a Computer Science & Engineering student at United International University,
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/tanvirshahriar30" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tanvirshahriar30" height="30" width="40" /></a>
-<a href="https://fb.com/tanvir.shahriar.344580" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tanvir.shahriar.344580" height="30" width="40" /></a>
+<a href="https://fb.com/tanvirsr22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tanvirsr22" height="30" width="40" /></a>
 <a href="https://instagram.com/thetanvirsrr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="thetanvirsrr" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/tshahriar32" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="tshahriar32" height="30" width="40" /></a>
 </p>
