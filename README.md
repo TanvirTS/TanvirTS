@@ -1,7 +1,7 @@
 <h1 >Hello,Everyone!👋</h1>
-I'm a Computer Science & Engineering student at United International University, passionate about software development, machine learning, and problem-solving. Currently exploring AI, web development, and open-source contributions.
+I'm a Computer Science & Engineering student at United International University, passionate about software development, machine learning, and problem-solving. Currently exploring AI, web development.
 
-- <b>I’m currently learning:</b> Competitive Programming, Machine Learning
+- <b>I’m currently learning:</b> Competitive Programming, Backend Developing.
 
 - <b>Reach me via:</b> **shahriartanvir016@gmail.com**
 
