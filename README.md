@@ -1,5 +1,5 @@
 <h1 align="center" >Hi there!👋</h1>
-<h1 align="center">I'm Tanvir Shahriar</h1>.
+<h1 align="center">I'm Tanvir Shahriar</h1>
 <p align ="center">BsCSE @ UIU | Passionate about Software and Backend Dev • AI/ML | Learning by building</p>
 
 <p align="center" >Currently learning Competitive Programming and FastAPI</p>
