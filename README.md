@@ -1,8 +1,7 @@
 <h1 align="center" >Hi there!👋</h1>
 <h1 align="center">I'm Tanvir Shahriar</h1>
-<p align ="center">BsCSE @ UIU | Passionate about Software and Backend Dev • AI/ML | Learning by building</p>
+<p align ="center">BsCSE @ UIU | Backend developer | AI Automation Engineer | n8n & AI Workflow Specialist | Learning by building</p>
 
-<p align="center" >Currently learning Competitive Programming and FastAPI</p>
 
 <h3 align="center" class="bebas">CONNECT WITH ME:</h3>
 <p align="center">
