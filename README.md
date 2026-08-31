@@ -26,7 +26,7 @@
 </p>
 
 
-<h3 align="center">LANGUAGES & TOOLS</h3>
+<h3 align="center">SKILLS</h3>
 
 <table align="center">
 
